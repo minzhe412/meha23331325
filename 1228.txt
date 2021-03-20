@@ -1,10 +1,9 @@
 #节点列表
 
-
-# SSR-QQ
+# SSR-QQ.iair.ml
 ssr://MTM5LjEyOS4xMTkuMTM3OjE2ODE0Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpiV2x1ZW1obE1EUXhOQS8/b2Jmc3BhcmFtPQ==
 
 
 
-# SSR-QQ1
+# SSR-QQ1.iair.ml
 ssr://MTM5LjEyOS4xMTkuMTM3OjE2ODE0Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpiV2x1ZW1obE1EUXhOQS8/b2Jmc3BhcmFtPQ
